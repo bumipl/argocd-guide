@@ -14,7 +14,7 @@ data:
       <body>
         <div class="container">
           <div class="jumbotron mt-5">
-            <h1 class="display-4">Piast to jest potęga!</h1>
+            <h1 class="display-4">Piast to jest potega!</h1>
             <p class="lead">kocham Tadka.</p>
           </div>
         </div>
